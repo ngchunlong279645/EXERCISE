@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class exercise2 {
 
 	public static void main(String[] args) {
-		printPI();
-		printBinary();
-		printHexadecimal();
-		printCompare();
-		printPlus();
+		//printPI();
+		//printBinary();
+		//printHexadecimal();
+		//printCompare();
+		//printPlus();
 		printReverse();
 		printCount();
 		printASCII();
@@ -129,7 +129,7 @@ public class exercise2 {
 		}
 		
 		public static void printCount() {
-			System.out.print(	"");
+			System.out.println(	"");
 			String words = "helo my name is ali2.0 from earth5.997";
 			char[] ch = words.toCharArray();
 			int letter = 0;
@@ -180,7 +180,7 @@ public class exercise2 {
 			System.out.print("Enter a number(string) = ");
 			String stg = scan.nextLine();
 			int number = Integer.parseInt(stg);
-			System.out.println("number +100="+number+100);
+			System.out.println("number +100="+(number+100));
 		}
 		
 		
