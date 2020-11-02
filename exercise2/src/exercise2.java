@@ -8,11 +8,11 @@ public class exercise2 {
 		//printHexadecimal();
 		//printCompare();
 		//printPlus();
-		printReverse();
-		printCount();
-		printASCII();
-		printEven();
-		printConvert();
+		//printReverse();
+		//printCount();
+		//printASCII();
+		//printEven();
+		//printConvert();
 	}
 
 	public static void printPI() {
